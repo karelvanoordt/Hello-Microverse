@@ -30,7 +30,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-- Remember to document your work in a professional way.
+- Have a web browser installed in your computer.
+- Have node and nvm installed.
 
 ### Setup
 
