@@ -1,18 +1,23 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# "Hello Microverse" Project
 
-> One paragraph statement about the project.
+> First repository for the Microverse module 1 ("The Portal") program. The goal of this project was to understand how GitHub Actions and GitHub Flow work. As one of the most important features in this project, was the installation of several linters, to help writing clean and ordered code.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./images/screenshot-1.png)
 
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML & CSS
+- Json
+- Node js
+
+## Linters
+
+- Webhint
+- Styleint
+- Lighthouse
 
 ## Live Demo
 
@@ -21,39 +26,35 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Have a web browser installed in your computer.
+- Have node and nvm installed.
+
 ### Setup
+
+To create a copy of this project, clone it using github desktop or download it as zip. Feel free to continue work on this project. If that's the case, fork the repository and create a local clone of your fork.
 
 ### Install
 
-### Usage
+- NodeJS
+- NPM
+
 
 ### Run tests
 
-### Deployment
-
+- At the latest pull request (of the branch you worked the entire project) should show the status of the linters. In case you notice some errors, you can look them up online or ask your colleagues for help.
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Karel van Oordt**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@karelvanoordt](https://github.com/githubhandle)
+- Twitter: [@karelvanoordtEN](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/karelvanoordt)
 
 ## 🤝 Contributing
 
@@ -67,9 +68,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Big thanks to my learning partners @timowest and @wes-isaac
 
 ## 📝 License
 
